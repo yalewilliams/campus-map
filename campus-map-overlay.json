@@ -38,22 +38,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff2600",
-        "marker-size": "medium",
-        "marker-symbol": "cross",
-        "title": "ALERT!"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.86180257797241,
-          40.800848467258646
-        ]
-      }
     }
   ]
 }
