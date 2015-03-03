@@ -86,6 +86,28 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#000000",
+        "stroke-width": 6,
+        "stroke-opacity": 1,
+        "title": "Road closed until Sunday"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.85762906074524,
+            40.79823326954653
+          ],
+          [
+            -77.85742521286011,
+            40.79843631653639
+          ]
+        ]
+      }
     }
   ]
 }
