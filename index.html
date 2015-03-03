@@ -84,6 +84,7 @@ var map = L.mapbox.map('map', 'aarondennis.f6516522', {
 var hash = L.hash(map);
 
 // add overlay to map
+console.log('adding overlay');
 var overlay = L.mapbox.featureLayer().loadURL('overlay.json').addTo(map);
 
 </script>
