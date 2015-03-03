@@ -7,8 +7,7 @@
         "marker-color": "#011993",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "title": "Hire us!",
-        "info": "PSU Cartographers"
+        "title": "Hire us!"
       },
       "geometry": {
         "type": "Point",
