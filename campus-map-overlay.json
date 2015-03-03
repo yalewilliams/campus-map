@@ -38,22 +38,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#9437ff",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "title": "grapes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.86285400390625,
-          40.80131951676518
-        ]
-      }
     }
   ]
 }
