@@ -66,6 +66,22 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Alert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.86098182201385,
+          40.80033680624839
+        ]
+      }
     }
   ]
 }
